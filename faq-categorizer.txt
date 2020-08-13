@@ -1,0 +1,11 @@
+greeting	 hi hi. hello how are you ? hey 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+price-inquiry	 How much is the cost ? What's the price ? What's the cost ? How much is price? How much it costs ? price cost money how much. how much?
+product-inquiry		What is this product ? What's the product ? What does this product do ? What is name of product ? What this product is all about? Can you tell me something about this product ? What are the product features ? Tell me feature of product. 
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
+Contact-Doctor	what medications should i take ?. foods should i eat to reduce sugar level ? drugs cure diabetes ? good medicine for this ?
+question1	What is a normal blood sugar level of diabetic patient?
+question2	What is a normal blood sugar 1 hour after eating?
+question3	Do I have pre-diabetes if my fasting blood sugar is 102?
+question4	What is the main reason for diabetes?
+test	this is for testing.
